@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace=""></mapper>
-<<<<<<< HEAD
-1235
-=======
-1234
->>>>>>> branch 'master' of https://github.com/309586875/first.git
+12345
